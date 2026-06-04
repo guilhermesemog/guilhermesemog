@@ -17,6 +17,7 @@ Building software, studying systems, and exploring artificial intelligence.
 
 **Software Engineering**
 
+* Algorithms & Data Structures
 * Backend Development
 * System Design
 
