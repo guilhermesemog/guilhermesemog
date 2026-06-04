@@ -2,7 +2,7 @@
 
 # Guilherme Medeiros Gomes
 
-### Backend Developer • AI & Linux Enthusiast
+### FullStack Developer • AI & Linux Enthusiast
 
 Building software, studying systems, and exploring artificial intelligence.
 
