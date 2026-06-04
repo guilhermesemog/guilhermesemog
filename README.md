@@ -2,7 +2,7 @@
 
 # Guilherme Medeiros Gomes
 
-### FullStack Developer • AI & Linux Enthusiast
+### Backend Developer • AI & Linux Enthusiast
 
 Building software, studying systems, and exploring artificial intelligence.
 
@@ -28,8 +28,11 @@ Building software, studying systems, and exploring artificial intelligence.
 
 
 ## Technologies
+<div align="center">
 
 `Java` · `Spring Boot` · `Python` · `Django` · `FastAPI` · `TypeScript` · `React` · `PostgreSQL` · `MySQL` · `Docker` · `Git` · `Linux`
+
+</div>
 
 ---
 
