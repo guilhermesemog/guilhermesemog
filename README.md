@@ -8,7 +8,7 @@ Building software, studying systems, and exploring artificial intelligence.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/guilhermegomespy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/guilhermesemog/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://gomesdev.com.br/)
 
 </div>
